@@ -4,7 +4,7 @@ Crie um repositório chamado "bertoti" -> pasta "engenhariadesoftware" -> arquiv
 
 1 - Comentar com suas palavras o primeiro trecho do livro Software Engineering at Google, Oreilly. 
 
-2 - Comentar com suas palavras o segundo trecho do livro Software Engineering at Google, Oreilly.(vou postar abaixo)
+2 - Comentar com suas palavras o segundo trecho do livro Software Engineering at Google, Oreilly.
 
 3 - Listar e explicar 3 exemplos de tradeoffs
 
@@ -26,4 +26,9 @@ How an organization will need to adapt as it evolves
 Trade-offs and Costs
 How an organization makes decisions, based on the lessons of Time and Change and Scale and Growth
 
-#### Comentário: 
+#### Comentário:
+
+O trecho do livro Software Engineering at Google, Oreilly enfatiza que o desenvolvimento de software é um processo contínuo, ou seja, que necessita de manutenções ao longo do seu tempo de vida. É destacado os três princípios para que a contrução de um software seja eficiente:
+
+- Time and Change (quando um código necessita ser adaptado?): -> o software tem que ser projetado de forma que ele possa ter manutenções de maneira inteligente.
+- Scale and Growth (de que forma um software pode 
